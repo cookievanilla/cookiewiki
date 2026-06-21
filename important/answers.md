@@ -10,7 +10,7 @@ description: Основные вопросы
 
 #### Какая версия сервера? <a href="#server-version" id="server-version"></a>
 
-Версия: Java Edition 1.21.5
+Версия: Java Edition 26.2
 
 #### Могу ли я играть с телефона, приставки или Windows Edition (Bedrock)? <a href="#is-bedrock-available" id="is-bedrock-available"></a>
 
