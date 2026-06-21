@@ -10,7 +10,7 @@ description: Тут ты можешь узнать как зайти на сер
 
 • После того, как вашу заявку приняли, просим вас ознакомится с правилами. Потом можете спокойно начинать Вашу игру на сервере.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">🔥<br>IP:</td><td align="center">cookiev.cv</td></tr><tr><td align="center">🌺</td><td align="center">Версия:<br>JAVA 1.21.5</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th align="center"></th><th align="center"></th></tr></thead><tbody><tr><td align="center">🔥<br>IP:</td><td align="center">cookiev.cv</td></tr><tr><td align="center">🌺</td><td align="center">Версия:<br>JAVA 26.2 </td></tr></tbody></table>
 
 {% hint style="info" %}
 Не работает айпи cookiev.cv?\
